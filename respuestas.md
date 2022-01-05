@@ -157,12 +157,7 @@ for (let i = 10; i >= 2; i--) {
 ## Escribe un código en JavaScript que le pregunte a los usuarios cuánto es 2 + 2. Si responden bien, mostramos un mensaje de felicitaciones, pero si responden mal, volvemos a empezar.
 Pista: puedes usar la función prompt de JavaScript.
 
-`const num = Number(prompt(¿Cuanto es 2 + 2, respondaa por favor?))`
-`if (num === 4) {
-  console.log(`Felicitaciones, respuesta correcta`);
-} else {
-  console.log(`Error, respuesta incorrecta`);
-}`
+- listo en js/punto4-3
 
 ## 5- Arrays y Objetos
 ## 5-1 Responde las siguientes preguntas en un nuevo archivo:
