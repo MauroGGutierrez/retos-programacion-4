@@ -198,3 +198,5 @@ Pista: puedes usar la función prompt de JavaScript.
 - listo en js/punto5-3
 
 ## 5-4 Crea una función que pueda recibir cualquier objeto como parámetro e imprima todos sus elementos uno por uno (no se vale imprimir el objeto completo).
+
+- listo en js/punto5-4
