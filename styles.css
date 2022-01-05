@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 9rem;
+}
